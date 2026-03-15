@@ -192,6 +192,7 @@ BentoML Server| http://localhost:3000
 ---
 
 👨‍💻 Author
+
 Shiv Kumavat
 
 Built with ❤️ using Python & MLOps tools.
